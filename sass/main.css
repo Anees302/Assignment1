@@ -42,7 +42,7 @@ html {
 
 #banner {
   height: 500px;
-  background-image: url(/images/blurynight.jpg);
+  background-image: url(./images/blurynight.jpg);
   background-size: cover;
   background-position: center;
 }
